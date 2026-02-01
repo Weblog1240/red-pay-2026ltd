@@ -10,11 +10,11 @@ import { MessageCircle, Send, Mail, MessagesSquare } from "lucide-react";
 const Support = () => {
   const [liveChatOpen, setLiveChatOpen] = useState(false);
   const handleTelegramSupport = () => {
-    window.open("https://t.me/+CmsyXFKtFNlhOWI8", "_blank");
+    window.open("https://t.me/+nF3oD_nfpTo5NzRk", "_blank");
   };
 
   const handleWhatsAppSupport = () => {
-    window.open("https://wa.me/message/NLY2THROUDR6P1", "_blank");
+    window.open("https://chat.whatsapp.com/IK30abAxJa46gEekwPKWG4", "_blank");
   };
 
   const handleEmailSupport = () => {
