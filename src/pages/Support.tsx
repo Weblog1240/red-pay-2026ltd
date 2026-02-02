@@ -18,7 +18,7 @@ const Support = () => {
   };
 
   const handleEmailSupport = () => {
-    window.location.href = "Bankwalletmining@gmail.com";
+    window.location.href = "redpay209@gmail.com";
   };
 
   const handleLiveChat = () => {
